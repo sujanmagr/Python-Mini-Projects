@@ -1,4 +1,5 @@
 #madlib generator a story generator 
+#the skeleton of the story is in the story.txt file
 with open("story.txt", "r") as f:
     story=f.read()
 

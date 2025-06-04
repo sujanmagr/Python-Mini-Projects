@@ -1,3 +1,4 @@
+#PIG game first one to 50 is the winner after rolling the dice
 import random
 
 
